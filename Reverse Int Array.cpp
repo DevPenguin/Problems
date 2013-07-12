@@ -7,7 +7,7 @@ void Reverse(int numbers[], int count)
   for(int i=0; i < count/2 ; i++)
   {
     int j = count - i - 1;
-    temp = numbers[i];
+    int temp = numbers[i];
     numbers[i] = numbers[j];
     numbers[j] = temp;
     }
