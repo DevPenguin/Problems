@@ -8,3 +8,10 @@ Attempts at solving exercises
 
 
 I am the mighty penguin. Mr. Mead FTW. 
+
+
+=======
+Pi.cpp
+=======
+
+Program that calculates an approximation of the value of Pi. 
