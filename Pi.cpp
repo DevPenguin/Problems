@@ -10,9 +10,11 @@ double Pi(const int n);
 int main()
 {
 
+	int n;
   cout << "Number of throws (accuracy increases with bigger N): ";
   cin >> n;
-  cout << Pi(n);
+  
+  cout << endl << Pi(n);
 	return 0;
 }
 
